@@ -8,4 +8,4 @@ Aim: Analyse the provided data and answer the questions asked
 
 Tech Stack: Microsoft Excel
 
-The 
+The [Consolidated Excel Sheet](https://github.com/kinshook/Survey-response/blob/main/Excel%20internship%20workbk.xlsx) is prepared using the three different CSVs and comtains the pivot table and charts necessary to graphically repesent the answers needed.
